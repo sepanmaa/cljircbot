@@ -1,6 +1,6 @@
 # cljircbot
 
-An IRC bot that logs URLs and posts titles for links posted on IRC channels.
+An IRC bot that logs URLs and posts HTML titles.
 
 # How to use
 
